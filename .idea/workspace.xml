@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88c89f60-70f5-4920-9f36-be098a136721" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/BinarySearch/BinarySearch.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/BinarySearch/BinarySearch.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/BinarySearch/BinarySearch.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/CountBubbleTea/CountBubbleTea.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/CountBubbleTea/CountBubbleTea.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/CountBubbleTea/CountBubbleTea.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/Devide_Conquer.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/FanHayKhong/FanHayKhong.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/FanHayKhong/FanHayKhong.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/FanHayKhong/FanHayKhong.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/FindMinimum/FindMinimum.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/FindMinimum/FindMinimum.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/GreatestCommonDivisor/GreatestCommonDivisor.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/GreatestCommonDivisor/GreatestCommonDivisor.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/HanoiTower/HanoiTower.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/HanoiTower/HanoiTower.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/LastDigitOfXPowerN/LastDigitOfXPowerN.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/LastDigitOfXPowerN/LastDigitOfXPowerN.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/ModuloReverse/ModuloReverse.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/ModuloReverse/ModuloReverse.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/PrimeNumberRecursion/PrimeNumberRecursion.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/PrimeNumberRecursion/PrimeNumberRecursion.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/PrintAllDigitsOfN/PrintAllDigitsOfN.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/PrintAllDigitsOfN/PrintAllDigitsOfN.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/QuickSort/QuickSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/QuickSort/QuickSort.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/QuickSort/QuickSort01.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/QuickSort/QuickSort02.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/QuickSort/QuickSort03.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/QuickSort/QuickSort04.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/QuickSort/QuickSort05.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/ShootOutOfMinhMinh/ShootOutOfMinhMinh.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/ShootOutOfMinhMinh/ShootOutOfMinhMinh.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/ShootOutOfMinhMinh/ShootOutOfMinhMinh.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/SortArrayMergeSort/SortArrayMergeSort.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/SortArrayMergeSort/SortArrayMergeSort.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/SumArrayRecursion/SumArrayRecursion.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/SumArrayRecursion/SumArrayRecursion.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/SumOfKRecord/SumOfKRecord.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/SumOfKRecord/SumOfKRecord.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/SumOfKRecord/SumOfKRecord.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/TinhSoTem/TinhSoTem.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/TinhSoTem/TinhSoTem.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/TinhSoTem/TinhSoTem.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Devide_Conquer/XPowerNDivideM/XPowerNDivideM.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Draft.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Draft.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/CountEvenOfString/CountEvenOfString.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/CountEvenOfString/CountEvenOfString.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/CountMoneyChange/CountMoneyChange.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/CountMoneyChange/CountMoneyChange.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/CountMoneyChange/CountMoneyChange.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/FactorialOfNMod/FactorialOfNMod.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/FactorialOfNMod/FactorialOfNMod.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/FindMaxPathOfMaze/FindMaxPathOfMaze.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/FindMaxPathOfMaze/FindMaxPathOfMaze.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/FindMaxPathOfMaze/FindMaxPathOfMaze.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/FindMaxSequence/FindMaxSequence.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/FindMaxSequence/FindMaxSequence.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/MatrixMultiplication/MatrixMultiplication.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/MatrixMultiplication/MatrixMultiplication.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/PascalTriangle/PascalPyramid.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/PascalTriangle/PascalPyramid.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/ShoppingAtMega/ShoppingAtMega.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/ShoppingAtMega/ShoppingAtMega.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/ShoppingAtMega/ShoppingAtMega.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/SumAtCellXY/SumAtCellXY.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/SumAtCellXY/SumAtCellXY.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DynamicProgramming/SumAtCellXY/SumAtCellXY.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/ChiPhiDuongSatThapNhat/ChiPhiDuongSatThapNhat.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/ChiPhiDuongSatThapNhat/ChiPhiDuongSatThapNhat.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/ChiPhiDuongSatThapNhat/kruskal01.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/ChiPhiDuongSatThapNhat/kruskal02.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/ChiPhiDuongSatThapNhat/kruskal03.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/Dijksra/Dijkstra.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/Dijksra/Dijkstra.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/Dijksra/Dijkstra2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/Dijksra/Dijkstra2.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/Dijksra/cau01.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/Dijksra/cau02.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/Dijksra/cau03.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/Dijksra/cau04.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/Dijksra/cau05.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/Dijksra/cau06.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/Dijksra/cau07.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/DinhKhongDenDuoc/BacLonNhat.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/DinhKhongDenDuoc/BacLonNhat.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/DinhKhongDenDuoc/BacLonNhat.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/DinhKhongDenDuoc/CanhKhongDenDuoc.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/DinhKhongDenDuoc/DinhKhongDenDuoc.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/DinhKhongDenDuoc/DinhKhongDenDuoc.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/DinhKhongDenDuoc/DinhKhongDenDuoc.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/DinhKhongDenDuoc/DinhKhongDenDuoc_DeQuy.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/DinhKhongDenDuoc/DinhKhongDenDuoc_DeQuy.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/DinhKhongDenDuoc/DinhKhongDenDuoc_DeQuy.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/DoThiLaCay/DoThiLaCay.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/DoThiLaCay/cay01.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/DoThiLaCay/cay02.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/DoThiLaCay/cay03.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/DoThiLaCay/cay04.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/DoThiLaCay/cay05.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/DoThiLaCay/cay06.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/DoThiLaCay/cay07.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/DoThiLaCay/cay08.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/DoThiLaCay/cay09.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/DoThiLaCay/cay10.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/GraphInput/Dijsktra/input01.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/GraphInput/Dijsktra/input02.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/GraphInput/Dijsktra/input03.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/NguoiCuoiMiNuong/NguoiCuoiMiNuong.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/NguoiCuoiMiNuong/NguoiCuoiMiNuong.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/NguoiCuoiMiNuong/NguoiCuoiMiNuong.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/TruongKhongTen/TruongKhongTen.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/TruongKhongTen/TruongKhongTen.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Graph/TruongKhongTen/TruongKhongTen.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/BaiToanATM/BaiToanATM.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/BaiToanATM/BaiToanATM.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/DeadlineAndProfit/DeadlineAndProfit.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/DeadlineAndProfit/DeadlineAndProfit.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/DienTichDuongBao/DienTichDuongBao.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/DienTichDuongBao/DienTichDuongBao.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/DienTichDuongBao/DienTichDuongBao.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/FractionalKnapsack/FractionalKnapsack.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/FractionalKnapsack/FractionalKnapsack.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/FractionalKnapsack/knapsack01.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/FractionalKnapsack/knapsack02.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/FractionalKnapsack/knapsack03.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/FractionalKnapsack/knapsack04.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/GiaTriDoChoi/GiaTriDoChoi.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/GiaTriDoChoi/GiaTriDoChoi.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/GiaTriDoChoi/GiaTriDoChoi.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/LoiNhuanLonNhat/LoiNhuanLonNhat.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/LoiNhuanLonNhat/vg01.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/LoiNhuanLonNhat/vg02.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/LoiNhuanLonNhat/vg03.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/LoiNhuanLonNhat/vg04.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/LoiNhuanLonNhat/vg05.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/LoiNhuanLonNhat/vg06.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/LoiNhuanLonNhat/vg07.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/LoiNhuanLonNhat/vg08.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/LoiNhuanLonNhat/vg09.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/LoiNhuanLonNhat/vg10.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/MergeCount/MergeCount.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/MergeCount/Mergecount.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/PrimeNumberLessThanN/PrimeNumberLessThanN.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/SoChaiDayNuoc/SoChaiDayNuoc.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/SoChaiDayNuoc/SoChaiDayNuoc.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/SoChaiDayNuoc/SoChaiDayNuoc.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/countOperations/countOperations.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/countOperations/countOperations.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/countOperations/uc01New.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/countOperations/uc02New.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/countOperations/uc03New.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/countOperations/uc04New.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/countOperations/uc05New.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/countOperations/uc06New.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy/countOperations/uc07New.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input/Merge/merge01.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input/Merge/merge02.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input/Merge/merge04.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input/Merge/merge05.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Input/Merge/merge06.inp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PriorityQueue/C1_2021.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PriorityQueue/C1_2021.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PriorityQueue/FanHayKhong.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PriorityQueue/FanHayKhong.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PriorityQueue/PriorityQueue.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PriorityQueue/PriorityQueue.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PriorityQueue/Tich3SoLonNhat.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PriorityQueue/Tich3SoLonNhat.exe" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2308y2dZWckEP6e4w9x5R0BjOyv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88c89f60-70f5-4920-9f36-be098a136721" name="Changes" comment="" />
+      <created>1640859898159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640859898159</updated>
+      <workItem from="1640859898963" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
