@@ -15,7 +15,7 @@ public class HourGlassSum {
     public static int hourGlassSum(List<List<Integer>> arr) {
         // Write your code here
         int sum = 0;
-        int max = 0;
+        int max = -999999;
         for (int i = 0; i < 4; i++) {
             for (int j = 0; j < 4; j++) {
                 int arr00 = arr.get(i).get(j);
