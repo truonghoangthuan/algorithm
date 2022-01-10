@@ -14,6 +14,7 @@ public class TwoStrings {
         for (int i = 0; i < s2.length(); i++) {
             if (hashSet.contains(s2.charAt(i))) {
                 found = true;
+                break;
             }
         }
 
