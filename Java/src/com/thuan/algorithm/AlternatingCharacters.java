@@ -1,4 +1,4 @@
-package com.algorithm;
+package com.thuan.algorithm;
 
 public class AlternatingCharacters {
     public static int alternatingCharacters(String s) {

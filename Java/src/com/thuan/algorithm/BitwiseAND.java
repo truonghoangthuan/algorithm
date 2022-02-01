@@ -1,4 +1,4 @@
-package com.algorithm;
+package com.thuan.algorithm;
 
 import java.util.ArrayList;
 import java.util.List;
