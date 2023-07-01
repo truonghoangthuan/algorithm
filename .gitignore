@@ -1,5 +1,6 @@
 c++/Draft.cpp
 c++/Draft.exe
+.playground/*
 
 # Compiled class file
 *.class
